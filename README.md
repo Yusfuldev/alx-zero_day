@@ -1,2 +1,2 @@
-My first readme
-Editing my readme file from github interface 
+My first readme.
+Edited my readme file from github interface 
